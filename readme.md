@@ -2,7 +2,7 @@
 A Alura liberou uma conta premium para alunos do CIn - UFPE por 30 dias, vou aprender o máximo que puder, vou criar os repositórios para cada curso feito e também fazer algumas anotações. 
 
 ## Print de como ficou a página
-![printprojeto](https://github.com/GuiCPessoa/RushAlura1/assets/93964438/d8fa5ba8-879b-4a86-b15e-9db076cd0f3e)
+![printprojeto](https://github.com/GuiCPessoa/RushAlura1_HTML_CSS/assets/93964438/97bb60fa-6a62-4a0f-adb2-ca1ade80c3d5)
 
 
 
@@ -57,3 +57,4 @@ Definindo o valor da propriedade display como flex, criarmos um conteiner flex, 
 
 
 Apertando `CTRL K C` você gera um comentário no Vscode (UTILIDADE PÚBLICA)
+

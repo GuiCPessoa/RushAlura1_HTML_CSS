@@ -1,4 +1,4 @@
-# Rush Alura 1
+# Rush Alura 1 - HTML e CSS
 A Alura liberou uma conta premium para alunos do CIn - UFPE por 30 dias, vou aprender o máximo que puder, vou criar os repositórios para cada curso feito e também fazer algumas anotações. 
 
 ## Print de como ficou a página
